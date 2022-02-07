@@ -1,1 +1,5 @@
 /venv
+app/__pycache__/main.cpython-38.pyc
+__pycache__/main.cpython-38.pyc
+.gitignore
+__pycache__/run.cpython-38.pyc
